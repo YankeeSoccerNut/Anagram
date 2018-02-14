@@ -1,0 +1,11 @@
+{
+  "name": "pythonds",
+  "version": "1.0.0",
+  "description": "Javascript implmentations of data structures and algorithms from Python udemy course",
+  "main": "anagram2.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Scott Anderson",
+  "license": "ISC"
+}
