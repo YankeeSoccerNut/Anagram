@@ -1,3 +1,5 @@
+// This is the test file that jest will use to test the isAnagram function
+
 const isAnagram = require('./anagram');
 
 
